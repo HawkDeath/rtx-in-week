@@ -1,0 +1,6 @@
+.vs/
+deps/
+out/
+output/
+
+*.json
